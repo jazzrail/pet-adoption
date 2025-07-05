@@ -8,4 +8,6 @@ git fetch - I can't get fetch to display anything
 
 git pull origin main
 
-git config --global pull.rebase false
+git config --global pull.rebase false - you won't use this Wyndy.
+
+git checkout -b dynamic-weather
