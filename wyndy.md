@@ -8,6 +8,9 @@ git fetch - I can't get fetch to display anything
 
 git pull origin main
 
+git config --global pull.rebase false - you won't use this Wyndy.
+
+git checkout -b dynamic-weather
 git config --global pull.rebase false
 
 2026 January 16 - changed github HTTPS to SSH
