@@ -16,3 +16,5 @@ git config --global pull.rebase false
 2026 January 16 - changed github HTTPS to SSH
 
 To get to ssh key: cd ~/.ssh The ls to view.
+
+https://jazzrail.github.io/pet-adoption/
