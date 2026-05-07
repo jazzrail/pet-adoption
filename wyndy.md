@@ -17,3 +17,7 @@ git checkout -b dynamic-weather
 To get to ssh key: cd ~/.ssh The ls to view.
 
 https://jazzrail.github.io/pet-adoption/
+
+## JavaScript for the petrs area
+
+- git checkout -b pets-area
