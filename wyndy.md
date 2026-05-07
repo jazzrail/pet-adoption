@@ -21,3 +21,7 @@ https://jazzrail.github.io/pet-adoption/
 ## JavaScript for the petrs area
 
 - git checkout -b pets-area
+
+## Useful
+
+- git branch -vv
