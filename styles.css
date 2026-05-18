@@ -64,7 +64,9 @@ body {
   text-decoration: none;
   padding: 13px 25px;
   border-radius: 1000px;
-  transition: background-color 0.3s ease-out, border 0.3s ease-out,
+  transition:
+    background-color 0.3s ease-out,
+    border 0.3s ease-out,
     color 0.3s ease-out;
 }
 
