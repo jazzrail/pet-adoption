@@ -18,7 +18,7 @@ To get to ssh key: cd ~/.ssh The ls to view.
 
 https://jazzrail.github.io/pet-adoption/
 
-## JavaScript for the petrs area
+## JavaScript for the pets area
 
 - git checkout -b pets-area
 
